@@ -55,25 +55,25 @@ body.dark-mode .publication-box {
 ### [Zero-Shot ATC Coding with Large Language Models for Clinical Assessments](https://aclanthology.org/2025.naacl-industry.19/)
 
 <u>Zijian Chen</u>, John-Michael Gamble, Micaela Jantzi, John P. Hirdes, and Jimmy Lin  
-**NAACL 2025 Industry Track**, Apr 2025. [[Paper]](https://aclanthology.org/2025.naacl-industry.19/) [[Poster]](https://wuming-233.github.io/publications/atc_NAACL2025_poster.pdf)
+**NAACL 2025 Industry Track**, Apr 2025. [[Paper]](https://aclanthology.org/2025.naacl-industry.19/) [[Poster]](https://wu-ming233.github.io/publications/atc_NAACL2025_poster.pdf)
 
 </div>
 
 <div class="publication-box" markdown="1">
 
-### [Accelerating Listwise Reranking: Reproducing and Enhancing FIRST](https://wuming-233.github.io/publications/first_SIGIR2025.pdf)
+### [Accelerating Listwise Reranking: Reproducing and Enhancing FIRST](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
 
 <u>Zijian Chen</u>, Ronak Pradeep, and Jimmy Lin  
-**SIGIR 2025**, July 2025. [[Paper]](https://wuming-233.github.io/publications/first_SIGIR2025.pdf)
+**SIGIR 2025**, July 2025. [[Paper]](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
 
 </div>
 
 <div class="publication-box" markdown="1">
 
-### [RankLLM: A Python Package for Reranking with LLMs](https://wuming-233.github.io/publications/rankllm_SIGIR2025.pdf)
+### [RankLLM: A Python Package for Reranking with LLMs](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf)
 
 Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, and Jimmy Lin  
-**SIGIR 2025**, July 2025. [[Paper]](https://wuming-233.github.io/publications/rankllm_SIGIR2025.pdf) [[Code]](https://github.com/castorini/rank_llm)
+**SIGIR 2025**, July 2025. [[Paper]](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf) [[Code]](https://github.com/castorini/rank_llm)
 
 </div>
 
@@ -81,6 +81,6 @@ Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu, <
 
 <p style="margin-bottom: 0;">I enjoy pop music history and motion pictures, to a point where I write about them:</p>
 <ul style="margin-top: 5px; margin-left: 30px; padding-left: 0;">
-<li style="margin-bottom: 5px;"><a href="https://wuming-233.github.io/posts/pop-music-history/">A Radio-Edit of Pop Music History</a></li>
-<li style="margin-bottom: 5px;"><a href="https://wuming-233.github.io/posts/movies-and-soundtracks/">Why Should You Watch Movies With Sound?</a></li>
+<li style="margin-bottom: 5px;"><a href="https://wu-ming233.github.io/posts/pop-music-history/">A Radio-Edit of Pop Music History</a></li>
+<li style="margin-bottom: 5px;"><a href="https://wu-ming233.github.io/posts/movies-and-soundtracks/">Why Should You Watch Movies With Sound?</a></li>
 </ul>
