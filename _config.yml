@@ -13,7 +13,7 @@ title                    : "Zijian Chen"
 title_separator          : "-"
 name                     : &name "Zijian Chen"
 description              : &description "Student researcher, University of Waterloo"
-url                      : https://wu-ming233.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://zijianchen.ca" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wu-ming233.github.io"
 
