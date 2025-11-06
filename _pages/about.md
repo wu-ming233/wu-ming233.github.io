@@ -82,20 +82,20 @@ _NAACL 2025 Industry._ [[Paper]](https://aclanthology.org/2025.naacl-industry.19
 
 <div class="publication-box" markdown="1">
 
-### [Accelerating Listwise Reranking: Reproducing and Enhancing FIRST](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
+### [Accelerating Listwise Reranking: Reproducing and Enhancing FIRST](https://dl.acm.org/doi/10.1145/3726302.3730287)
 
 <u>Zijian Chen</u>, Ronak Pradeep, Jimmy Lin  
-_SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
+_SIGIR 2025._ [[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730287)
 
 </div>
 
 <div class="publication-box" markdown="1">
 
-### [RankLLM: A Python Package for Reranking with LLMs](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf)
+### [RankLLM: A Python Package for Reranking with LLMs](https://dl.acm.org/doi/10.1145/3726302.3730331)
 
 Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen,  
 Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, Jimmy Lin  
-_SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf) [[Code]](https://github.com/castorini/rank_llm)
+_SIGIR 2025._ [[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730331) [[Code]](https://github.com/castorini/rank_llm)
 
 </div>
 
