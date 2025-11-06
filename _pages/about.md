@@ -54,7 +54,7 @@ body.dark-mode .publication-box {
 
 ### [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://texttron.github.io/BrowseComp-Plus/)
 
-<u>Zijian Chen*</u>, Xueguang Ma*, Shengyao Zhuang*, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin 
+<u>Zijian Chen*</u>, Xueguang Ma*, Shengyao Zhuang*, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin  
 _Preprint 2025._ [[Paper]](https://arxiv.org/pdf/2508.06600) [[Code]](https://github.com/texttron/BrowseComp-Plus) [[Project]](https://texttron.github.io/BrowseComp-Plus/)
 
 </div>
@@ -63,7 +63,7 @@ _Preprint 2025._ [[Paper]](https://arxiv.org/pdf/2508.06600) [[Code]](https://gi
 
 ### [QuackIR: Retrieval in DuckDB and Other Relational Database Management Systems](https://aclanthology.org/2025.emnlp-industry.33/)
 
-Yijun Ge, <u>Zijian Chen</u>, Jimmy Lin 
+Yijun Ge, <u>Zijian Chen</u>, Jimmy Lin  
 _EMNLP 2025 Industry._ [[Paper]](https://aclanthology.org/2025.emnlp-industry.33/) [[Code]](https://github.com/castorini/quackir) [[DuckDB Post]](https://duckdb.org/science/quackir-retrieval-in-duckdb/)
 
 </div>
@@ -72,7 +72,7 @@ _EMNLP 2025 Industry._ [[Paper]](https://aclanthology.org/2025.emnlp-industry.33
 
 ### [Zero-Shot ATC Coding with Large Language Models for Clinical Assessments](https://aclanthology.org/2025.naacl-industry.19/)
 
-<u>Zijian Chen</u>, John-Michael Gamble, Micaela Jantzi, John P. Hirdes, Jimmy Lin 
+<u>Zijian Chen</u>, John-Michael Gamble, Micaela Jantzi, John P. Hirdes, Jimmy Lin  
 _NAACL 2025 Industry._ [[Paper]](https://aclanthology.org/2025.naacl-industry.19/) [[Poster]](https://wu-ming233.github.io/publications/atc_NAACL2025_poster.pdf)
 
 </div>
@@ -81,7 +81,7 @@ _NAACL 2025 Industry._ [[Paper]](https://aclanthology.org/2025.naacl-industry.19
 
 ### [Accelerating Listwise Reranking: Reproducing and Enhancing FIRST](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
 
-<u>Zijian Chen</u>, Ronak Pradeep, Jimmy Lin 
+<u>Zijian Chen</u>, Ronak Pradeep, Jimmy Lin  
 _SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/first_SIGIR2025.pdf)
 
 </div>
@@ -90,7 +90,7 @@ _SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/first_SIGIR202
 
 ### [RankLLM: A Python Package for Reranking with LLMs](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf)
 
-Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, Jimmy Lin 
+Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, Jimmy Lin  
 _SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf) [[Code]](https://github.com/castorini/rank_llm)
 
 </div>
