@@ -73,7 +73,7 @@ _EMNLP 2025 Industry._ [[Paper]](https://aclanthology.org/2025.emnlp-industry.33
 ### [Zero-Shot ATC Coding with Large Language Models for Clinical Assessments](https://aclanthology.org/2025.naacl-industry.19/)
 
 <u>Zijian Chen</u>, John-Michael Gamble, Micaela Jantzi, John P. Hirdes, Jimmy Lin \
-_NAACL 2025 Industry Track._ [[Paper]](https://aclanthology.org/2025.naacl-industry.19/) [[Poster]](https://wu-ming233.github.io/publications/atc_NAACL2025_poster.pdf)
+_NAACL 2025 Industry._ [[Paper]](https://aclanthology.org/2025.naacl-industry.19/) [[Poster]](https://wu-ming233.github.io/publications/atc_NAACL2025_poster.pdf)
 
 </div>
 
