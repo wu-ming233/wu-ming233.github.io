@@ -54,7 +54,7 @@ body.dark-mode .publication-box {
 
 ### [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://texttron.github.io/BrowseComp-Plus/)
 
-<u>Zijian Chen\*</u>, Xueguang Ma\*, Shengyao Zhuang\*, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin  
+<u>Zijian Chen*</u>, Xueguang Ma\*, Shengyao Zhuang\*, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin  
 _Preprint 2025._ [[Paper]](https://arxiv.org/pdf/2508.06600) [[Code]](https://github.com/texttron/BrowseComp-Plus) [[Project]](https://texttron.github.io/BrowseComp-Plus/)
 
 </div>
