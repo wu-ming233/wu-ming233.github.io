@@ -54,7 +54,10 @@ body.dark-mode .publication-box {
 
 ### [BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent](https://texttron.github.io/BrowseComp-Plus/)
 
-<u>Zijian Chen*</u>, Xueguang Ma\*, Shengyao Zhuang\*, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin  
+<u>Zijian Chen*</u>, Xueguang Ma\*, Shengyao Zhuang\*, Ping Nie, Kai Zou, Andrew Liu,  
+Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam,  
+Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang,  Luyu Gao,  
+Wenhu Chen, Jimmy&nbsp;Lin  
 _Preprint 2025._ [[Paper]](https://arxiv.org/pdf/2508.06600) [[Code]](https://github.com/texttron/BrowseComp-Plus) [[Project]](https://texttron.github.io/BrowseComp-Plus/)
 
 </div>
@@ -90,7 +93,8 @@ _SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/first_SIGIR202
 
 ### [RankLLM: A Python Package for Reranking with LLMs](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf)
 
-Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, Jimmy Lin  
+Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen,  
+Andrew Xu, <u>Zijian Chen</u>, Yilin Zhang, Yidi Chen, Jasper Xian, Jimmy Lin  
 _SIGIR 2025._ [[Paper]](https://wu-ming233.github.io/publications/rankllm_SIGIR2025.pdf) [[Code]](https://github.com/castorini/rank_llm)
 
 </div>
