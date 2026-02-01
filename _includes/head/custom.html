@@ -314,19 +314,58 @@
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         const starContainers = document.querySelectorAll('.github-star-count[data-repo]');
+        const CACHE_duration = 1000 * 60 * 60 * 24; // 24 hours
+
         starContainers.forEach(container => {
             const repo = container.getAttribute('data-repo');
-            fetch(`https://api.github.com/repos/${repo}`)
-                .then(response => response.json())
-                .then(data => {
-                    if (data.stargazers_count !== undefined) {
-                        // Simple space, star, and count without dividers or extra containers
-                        container.innerHTML = `&nbsp;<i class="fas fa-star" aria-hidden="true"></i> <span>${data.stargazers_count}</span>`;
-                        container.style.display = 'inline-flex';
+            const cacheKey = `gh_stars_${repo}`;
+            let cached = null;
+
+            try {
+                cached = localStorage.getItem(cacheKey);
+            } catch (e) { /* ignore */ }
+
+            let validCache = false;
+
+            if (cached) {
+                try {
+                    const parsed = JSON.parse(cached);
+                    // Check if cache is still valid
+                    if (Date.now() - parsed.timestamp < CACHE_duration) {
+                        renderStars(container, parsed.count);
+                        validCache = true;
                     }
-                })
-                .catch(err => console.error('Error fetching star count:', err));
+                } catch (e) {
+                    try { localStorage.removeItem(cacheKey); } catch (err) { }
+                }
+            }
+
+            if (!validCache) {
+                fetch(`https://api.github.com/repos/${repo}`)
+                    .then(response => {
+                        if (!response.ok) throw new Error(response.statusText);
+                        return response.json();
+                    })
+                    .then(data => {
+                        if (data.stargazers_count !== undefined) {
+                            renderStars(container, data.stargazers_count);
+                            // Save to cache
+                            try {
+                                localStorage.setItem(cacheKey, JSON.stringify({
+                                    count: data.stargazers_count,
+                                    timestamp: Date.now()
+                                }));
+                            } catch (e) { }
+                        }
+                    })
+                    .catch(err => console.error('Error fetching star count:', err));
+            }
         });
+
+        function renderStars(container, count) {
+            container.innerHTML = `&nbsp;<i class="fas fa-star" aria-hidden="true"></i> <span>${count}</span>`;
+            container.style.display = 'inline-flex';
+        }
     });
 </script>
 
