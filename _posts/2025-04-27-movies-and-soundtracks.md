@@ -515,12 +515,12 @@ What did movies do with music during the long gap before synchronized sound?
 Live variety shows featuring comedians, skits, dancers—all *with musical accompaniment*. Found everywhere, they began including films in 1896, initially as brief intermissions that grew increasingly popular. By the 1920s, film-specific venues had largely replaced Vaudeville theatres.
 
 ### Nickelodeons
-![](/images/music246/Pasted image 20250123230904.png]
+![](/images/music246/Pasted image 20250123230904.png)
 
 After Vaudeville's decline, Nickelodeons—local stores converted for movie showing—took over. From 3,000 in 1907 to over 10,000 by 1910. These weren't real theatres, just spaces with chairs and a projector.
 
 "Nickelodeons" cost five cents to enter. Music came from piano, *player piano* (programmable piano using punch-card-like sheets), small ensembles (about 3 musicians in better establishments), or gramophones playing records.
-![](/images/music246/Pasted image 20250123231113.png]
+![](/images/music246/Pasted image 20250123231113.png)
 
 
 ### The Shift To Narrative
@@ -544,13 +544,13 @@ Music's purpose shifted from mere *audience entertainment to "playing the pictur
 
 ### 1910-1920
 
-![](/images/music246/Pasted image 20250130193620.png]
+![](/images/music246/Pasted image 20250130193620.png)
 
 The film industry matured significantly, but *Thomas Edison attempted to patent every single movie* for royalty payments. Most districts supported Edison, **except Hollywood**, where California viewed Edison as a monopolist. Filmmakers rushed to Hollywood, which proved geographically ideal: excellent weather and diverse landscapes perfect for various scenes. The map above shows where in Hollywood you could film as "Africa," "New England," and other locations.
 
 Films became longer and more sophisticated.
 
-![](/images/music246/Pasted image 20250130194129.png]
+![](/images/music246/Pasted image 20250130194129.png)
 
 The first "*Movie Palaces*" opened in *1912*: venues built **specifically for showing movies**. This marked the first time movie exhibition wasn't a side project. Quality Movie Palaces employed orchestras to accompany films, providing good employment for musicians and enhanced experiences for audiences.
 
@@ -566,14 +566,14 @@ Efforts emerged to standardize movie music:
 Thomas Edison began providing "*musical suggestions*": scene-by-scene recommendations for appropriate music. These lacked strict timing, organizing only by scenes.
 
 #### 1912: Max Winkler (Carl Fischer Music)
-![](/images/music246/Pasted image 20250130195559.png]
+![](/images/music246/Pasted image 20250130195559.png)
 
 *Max Winkler* called himself a **music fitter**, specifying which music pieces to play with precise timings. He effectively created *cue sheets*, wanting musicians to follow them consistently across venues, carrying sheets from one Movie Palace to the next.
 
 This approach had problems: sheet music often got lost during travel, and some venues lacked musicians or had musicians unwilling to follow cue sheets. A good attempt that didn't quite work.
 
 #### Resource Books
-![](/images/music246/Pasted image 20250130200051.png]
+![](/images/music246/Pasted image 20250130200051.png)
 
 Another standardization attempt: instead of carrying music for every movie, musicians could purchase compiled books organized by mood. The famous *Sam Fox Moving Picture Music (Vol 1, 1913)* by J.S. Zamenik included categories like "Hurry Music" and "Fighting Music."
 
@@ -582,7 +582,7 @@ Another standardization attempt: instead of carrying music for every movie, musi
 Musicians generally didn't want to purchase these books, so this approach also failed.
 
 #### Trade Papers About Film Music
-![](/images/music246/Pasted image 20250130200740.png]
+![](/images/music246/Pasted image 20250130200740.png)
 
 Despite being silent, the film industry had become commercially mature and productive, with Hollywood producing numerous movies annually. Filmmakers paid intense attention to improving music, including standardization efforts.
 
@@ -612,7 +612,7 @@ Sound film demonstrations appeared as early as **1922**, with two major approach
 
 ### 1. Sound On Film
 Print *photographs of sound waves* on film tape edges.
-![](/images/music246/Pasted image 20250130204734.png]
+![](/images/music246/Pasted image 20250130204734.png)
 
 **Main companies**: Phonofilm, Movietone
 
@@ -622,7 +622,7 @@ Print *photographs of sound waves* on film tape edges.
 
 ### 2. Sound On Disk
 Record audio on phonograph disks like records, synchronized with film projectors.
-![](/images/music246/Pasted image 20250130204745.png]
+![](/images/music246/Pasted image 20250130204745.png)
 
 **Developed by Warner Brothers**, called *Vitaphone*. Phonograph disks used soft materials for better quality but wore out quickly, marked with 20-box grids—cross out one box per use, discard after 20 plays.
 
@@ -631,12 +631,12 @@ Record audio on phonograph disks like records, synchronized with film projectors
 **Con**: Playing sound and picture on separate machines with inconsistent motors created *poor synchronization*
 
 #### Example: *Don Juan* (1926)
-![](/images/music246/Pasted image 20250130205220.png]
+![](/images/music246/Pasted image 20250130205220.png)
 
 Used Vitaphone technology with recorded score primarily by *William Axt*, performed by the New York Philharmonic Orchestra. Featured music and sound effects but *no dialogue*—still essentially a silent film because audio-picture synchronization was too poor for dialogue. Also included a second score for "live" musicians since most theaters lacked Vitaphone equipment.
 
 ### Example: *The Jazz Singer* (1927)
-![](/images/music246/Pasted image 20250130205550.png]
+![](/images/music246/Pasted image 20250130205550.png)
 
 **The first important film with synchronized dialogue.**
 
@@ -660,7 +660,7 @@ Film had developed as a silent visual medium. Silent film actors had to adjust t
 Many *directors worried about using non-diegetic music*: "Where does the music come from?" Previously, audiences knew music came from live musicians, avoiding confusion. With sound now including dialogue, music created confusion: "I can hear this music—can the characters hear it too?" Though non-diegetic music was everywhere in silent films, it largely disappeared from 1928-1932.
 
 #### 2. Making Films
-![](/images/music246/Pasted image 20250130212421.png]
+![](/images/music246/Pasted image 20250130212421.png)
 
 All *sound had to be recorded in real time* during filming. Music and dialogue required balanced mixing—if orchestra was too loud, "move them 5 steps back" for softer sound.
 
@@ -669,7 +669,7 @@ Since sound recorded during shooting, loud cameras required large soundproof boo
 *Script writing was just invented*—no dialogue before meant no scripts needed until now!
 
 #### 3. Showing Films
-![](/images/music246/Pasted image 20250130212823.png]
+![](/images/music246/Pasted image 20250130212823.png)
 
 The prolonged technology battle made theaters uncertain about purchases, so they waited. Few of the 20,000 theaters were equipped for sound when *The Jazz Singer* was released. By end of 1929, about 1,000 theaters had sound equipment. By 1935, the transition was complete.
 
@@ -679,7 +679,7 @@ A movie about making sound films in 1927 and the challenges faced. Issues with f
 ---
 
 ### Max Steiner (1888-1971)
-![](/images/music246/Pasted image 20250130213757.png]
+![](/images/music246/Pasted image 20250130213757.png)
 
 The first major film score composer we'll examine in detail. We explore composers' backgrounds because it influences their music, and discuss how they entered film scoring—most people stumbled into it accidentally.
 
@@ -690,14 +690,14 @@ Formally trained in traditional European classical music, he was a child prodigy
 He worked as composer and conductor for stage productions in England. However, *WWI* broke out in *1914* while he was there. As an Austrian citizen, he was considered an enemy of England and faced imprisonment in a camp. A friend helped him *escape to the U.S.* in 1914.
 
 He worked on *Broadway* for 15 years, where large musicals dominated. Steiner excelled at these productions. In **1929**, he was invited to Hollywood to compose for a musical called **Rio Rita**.
-![](/images/music246/Pasted image 20250206201537.png]
+![](/images/music246/Pasted image 20250206201537.png)
 
 Hollywood sought singers and composers after *The Jazz Singer*'s success, wanting to adapt large musicals from Broadway. Steiner decided to stay in Hollywood, impressed by the quality of musicians and facilities.
 
 This proved problematic: by 1930, directors worried about audiences being confused by "*where does the music come from*," so *little score music was used* in narrative films.
 
 ### Cimarron (1931)
-![](/images/music246/Pasted image 20250206201902.png]
+![](/images/music246/Pasted image 20250206201902.png)
 
 When scores were largely absent from films due to audience confusion concerns, Max Steiner composed music for *Cimarron*. In a scene featuring a couple dancing at a club, moving on and off the dance floor:
 
@@ -708,7 +708,7 @@ When scores were largely absent from films due to audience confusion concerns, M
 This music enhanced the movie's effectiveness. *David Selznick*, a leader at RKO studio, recognized Steiner's excellent work.
 
 #### Symphony of 6 Million / Bird of Paradise (1932)
-![](/images/music246/Pasted image 20250206202331.png]
+![](/images/music246/Pasted image 20250206202331.png)
 
 Recognizing Steiner's talent, David Selznick commissioned him for these two films, asking for *wall-to-wall music*: music playing throughout the films.
 
@@ -717,7 +717,7 @@ Both movies succeeded, and audiences weren't confused about music's source. They
 This began changing perceptions about music's power, though some directors still worried about audience confusion.
 
 ### King Kong (1933)
-![](/images/music246/Pasted image 20250206202623.png]
+![](/images/music246/Pasted image 20250206202623.png)
 
 *King Kong* spent enormous amounts on special effects and was originally made without music. Initial screenings received poor reviews as sound effects without music felt awkward. *Audiences laughed* even though the movie was supposed to be scary.
 
@@ -738,7 +738,7 @@ When they think they're hearing wave echoes off rocks, it's actually drums from 
 As crew members view the beach, one character says "listen," but nothing new happens musically—still Kong's theme plus drums. It's unclear what diegetic music the characters hear. This lack of distinction shows the *immaturity of non-diegetic music use* at this time.
 
 ### The Informer (1935)
-![](/images/music246/Pasted image 20250206205607.png]
+![](/images/music246/Pasted image 20250206205607.png)
 
 Gypo, a naive Irish fighter, and Katie, his manipulative prostitute girlfriend, have the opportunity to turn in Gypo's friend for tickets to America. She manipulates Gypo into selling his friend, but the Irish resistance discovers Gypo is the informer and chases them.
 
@@ -755,7 +755,7 @@ Steiner quotes a thematically transformed version of *Yankee Doodle*.
 This movie won the Academy Award for *"Best Original Score"*—one of the first because original scores were just beginning to appear. Much more advanced musically compared to *King Kong*.
 
 ### More On Max Steiner
-![](/images/music246/Pasted image 20250206211441.png]
+![](/images/music246/Pasted image 20250206211441.png)
 
 Also composed for *Gone with the Wind* (1939), *Casablanca* (1942), and *A Summer Place* (1959). Steiner disliked pop songs, so he composed scores that sounded like pop songs. He created the main theme for *A Summer Place*, which was later rearranged into a successful pop song.
 
@@ -776,7 +776,7 @@ This was problematic for actors: if someone signed a 5-movie contract at $100/we
 However, for productive filmmaking, this was beneficial because *you knew exactly what a movie would cost*—just add up the salaries. Thus, the 1930s became Hollywood's most productive period. This was the height of the "Studio System."
 
 ### The "Émigré" Composer
-![](/images/music246/Pasted image 20250206213402.png]
+![](/images/music246/Pasted image 20250206213402.png)
 
 "Émigré": 流亡者 (exile/refugee)
 
@@ -788,7 +788,7 @@ Nazis forced out many great European artists and intellectuals (especially Jewis
 The next composer we'll discuss extensively is an émigré.
 
 ### Erich Wolfgang Korngold (1897-1957)
-![](/images/music246/Pasted image 20250206214259.png]
+![](/images/music246/Pasted image 20250206214259.png)
 
 Born in Vienna, similar to Steiner. "Wolfgang"—Mozart's name too, creating big expectations. Child prodigy like Steiner. His father was a notable music critic (Steiner's father owned a theater—both fathers in the music industry).
 
@@ -822,7 +822,7 @@ Korngold pioneered music for *battle scenes*, which became the standard:
 - <mark style="background: #ADCCFFA6;">Occasional motive reference</mark>: interjecting villain themes when bad guys are winning, or hero themes when good guys triumph
 
 ### The Sea Hawk (1940)
-![](/images/music246/Pasted image 20250227192701.png]
+![](/images/music246/Pasted image 20250227192701.png)
 
 Korngold's music for this film set in 1585, when Spain and England were at war. Spain had larger, slower ships (无敌舰队), while Britain employed smaller, agile ships operating like pirates to damage Spanish vessels—these were the "sea hawks."
 
@@ -843,7 +843,7 @@ Harp (竖琴) featured prominently for easy rapid note playing. Music dropped du
 At battle's end, a natural horn plays source music to signal surrender, blending source and score. Natural horns can only play certain major notes, but when this "natural horn" plays notes only possible on trumpet, it signals transition from source to score as orchestra enters—an opera technique.
 
 ### The Adventures of Robin Hood (1938)
-![](/images/music246/1_Cr1T0lnTC5j009a7uwrAhw.png]
+![](/images/music246/1_Cr1T0lnTC5j009a7uwrAhw.png)
 
 Korngold's music for the story where Normans (French descent) rule England unfairly over Saxons. Evil Prince John, a Norman, treats Saxons poorly, prompting Robin, also noble, to rob the rich and help the poor.
 
@@ -866,7 +866,7 @@ The happy theme plays through their playful fight, implying no one gets hurt. Mu
 
 #### Meets Friar Tuck
 Similar to Little John scene. Initial theme played with *bassoon* (too high for bassoon) and *muted trumpet* for comedy effect.
-![](/images/music246/Pasted image 20250227204118.png]
+![](/images/music246/Pasted image 20250227204118.png)
 
 Sword fight uses same theme as Little John's staff battle but more exciting since swords are more dangerous. Woodwind "water" theme returns when Friar Tuck falls. Concludes with merry men theme, this time played with bassoon, associated with Friar Tuck.
 
@@ -881,15 +881,15 @@ The other (from opening credits) represents Robin's *patriotic love* for King Ri
 Wrote in 19th century Wagner romantic style from his symphonic and opera instrumental background. Focused on thematic transformations, often framing narrative. Limited Mickey Mousing, using it only for comedy—contrasting with Steiner who Mickey Moused everything, even serious scenes.
 
 ### 1930s: The Great Depression
-![](/images/music246/Pasted image 20250227210734.png]
+![](/images/music246/Pasted image 20250227210734.png)
 
 The Great Depression only really ended with WWII.
 
-![](/images/music246/Pasted image 20250227210756.png]
+![](/images/music246/Pasted image 20250227210756.png)
 
 Worsened by the Dustbowl, where farmlands were destroyed.
 
-![](/images/music246/Pasted image 20250227210815.png]
+![](/images/music246/Pasted image 20250227210815.png)
 
 Depression-era films often featured fantasy or distant settings so audiences could escape their lives: *Lost Horizon* (1937), *Robin Hood* (1938), *Wizard of Oz* (1939).
 
@@ -904,29 +904,29 @@ Influenced by German <mark style="background: #FFB8EBA6;">Expressionism</mark> (
 Expressionism presented humanity's dark side through nightmarish images, making extensive use of shadows and lights. Example: *Nosferatu* (1922).
 
 German film 1930s example:
-![](/images/music246/Pasted image 20250227212422.png]
+![](/images/music246/Pasted image 20250227212422.png)
 Dracula's shadow claws pierce someone's heart.
 
 Compare with Hollywood 1940s Film Noir:
-![](/images/music246/Pasted image 20250227212519.png]
+![](/images/music246/Pasted image 20250227212519.png)
 Shows clear German 1930s influence. Often features rain for more reflections to play with lights and shadows. French audiences watching American films after WWII were shocked how much darker (affairs, murders) they were compared to pre-war films like *Wizard of Oz*. They called them "black films"—*Film Noir*.
 
 ### Miklós Rózsa (1907-1995)
-![](/images/music246/Pasted image 20250227212714.png]
+![](/images/music246/Pasted image 20250227212714.png)
 
 Hungarian composer born later than Steiner and Korngold, so he studied beyond just Wagner. Concert hall composers began turning away from major scales to explore more scales—a trend called <mark style="background: #FFB8EBA6;">modernism</mark>. Rózsa **studied modernism**.
 
 His mother was a classical pianist. He studied in Leipzig and Paris—Paris being the "second-best place" to study traditional western music after Vienna. France treated movies as serious art, not just "popular entertainment."
 
 After a successful career as composer, at Arthur Honegger's suggestion, Rózsa entered film scoring (*1934*). Did film work in England, *1934-1939*. Due to WWII making England inconvenient for filmmaking, he moved to Hollywood while completing "**The Thief of Bagdad (1940)**."
-![](/images/music246/Pasted image 20250227213709.png]
+![](/images/music246/Pasted image 20250227213709.png)
 
 #### Jungle Book (1942)
-![](/images/music246/Pasted image 20250227213809.png]
+![](/images/music246/Pasted image 20250227213809.png)
 Rózsa's music; first soundtrack released on record in the U.S.
 
 #### Double Indemnity (1944)
-![](/images/music246/Pasted image 20250227213900.png]
+![](/images/music246/Pasted image 20250227213900.png)
 
 Moving into Film Noir, Rózsa worked on this film about insurance companies creating near-impossible clauses, then adding extra money for clauses doubling payouts.
 
@@ -945,7 +945,7 @@ Big studios had difficulties accepting "modernism":
 
 
 ### Spellbound (1945) and The Lost Weekend (1945)
-![](/images/music246/Pasted image 20250306191645.png]
+![](/images/music246/Pasted image 20250306191645.png)
 
 Both composed by *Miklós Rózsa*, both film noir. Same year, both nominated for Academy Best Original Score Awards. *Spellbound* won, though Rózsa personally preferred *The Lost Weekend*.
 
@@ -956,7 +956,7 @@ Both films are psychological dramas dealing with disturbed characters:
 To reflect psychological drama, Rózsa used <mark style="background: #ADCCFFA6;">Theremin</mark>, an electronic instrument producing eerie, unsettling sounds. *One of the first times an electronic instrument appeared in film scores*.
 
 Played by controlling distance between hands and antenna. Invented by *Leon Theremin*, a Russian.
-![](/images/music246/Pasted image 20250306192156.png]
+![](/images/music246/Pasted image 20250306192156.png)
 
 Theremin hoped his instrument would join orchestras (image shows him posing as conductor), though this never happened. Famous Theremin player: *Clara Rockmore*.
 
@@ -985,21 +985,21 @@ We'll pause Rózsa here. He's also important in the 1950s with very different pi
 The 1940s saw increased numbers of American-born composers rising to prominence, such as Bernard Herrmann and David Raksin, after the 1930s "Émigré" period of European immigrants.
 
 ### David Raksin (1912-2004)
-![](/images/music246/Pasted image 20250306195247.png]
+![](/images/music246/Pasted image 20250306195247.png)
 
 Born in Philadelphia; father conducted for silent films. Raksin studied music with *Arnold Schoenberg*, one of the most important composers in transitioning to *modernism*. Unlike older composers, Raksin studied modernism from the beginning.
 
 Early career as pianist and arranger for Jazz bands in NY (*Benny Goodman*) during big band era. Worked on Broadway for 15 years.
 
 #### Charlie Chaplin
-![](/images/music246/Pasted image 20250306200043.png]
+![](/images/music246/Pasted image 20250306200043.png)
 
 Charlie Chaplin was a good musician but self-taught, unable to read or write sheet music. Chaplin wanted his own music for **Modern Times (1935)** but couldn't write sheet music. Raksin was hired to help Chaplin compose musical ideas into notation.
 
 Raksin made connections with Chaplin and director friends, entering film industry through these relationships.
 
 ### Laura (1944)
-![](/images/music246/Laura.jpg]
+![](/images/music246/Laura.jpg)
 
 Film noir without action. Music by *David Raksin*. Story about a young popular businesswoman murdered at the beginning; suspense about who killed her.
 
@@ -1068,7 +1068,7 @@ Movies competed with TV in two main ways:
 Movie theaters had color films; TVs couldn't. This led to more colored films, though some remained black and white.
 
 Movies used to be only 4:3 (all previous discussed movies). TVs were also 4:3. To make experiences more unique, movies started using much wider aspect ratios:
-![](/images/music246/Pasted image 20250306212307.png]
+![](/images/music246/Pasted image 20250306212307.png)
 
 Multiple competing technologies emerged for wider aspect ratios: Cinerama, CinemaScope, Panavision, and VistaVision. This competition resembled the "sound on film" vs. "sound on disk" battle during sound film implementation.
 
@@ -1083,7 +1083,7 @@ This created "epic films" set in ancient Rome or similar, where people fought wi
 Examples: *Quo Vadis*, *The Robe*, *Julius Caesar*, *Lawrence of Arabia*, *Cleopatra*, *The Ten Commandments*
 
 #### Ben-Hur (1959)
-![](/images/music246/Pasted image 20250306212930.png]
+![](/images/music246/Pasted image 20250306212930.png)
 
 Music by *Miklós Rózsa* (famous for film noir; his second stage featured epic films). About a Jewish prince betrayed and sent into slavery, who becomes chariot driver, then Roman army general, seeking revenge on betrayers.
 
@@ -1111,14 +1111,14 @@ Hollywood wanted to compete with TV and foreign films, pushing for more controve
 Finally, in *1968*, the Production Code was officially abolished.
 
 ### Dimitri Tiomkin (1894-1979)
-![](/images/music246/Pasted image 20250306221102.png]
+![](/images/music246/Pasted image 20250306221102.png)
 
 Born in Russia. Played piano in Russian silent movie theaters. 1925 USA: worked in vaudeville during the period when movies became the most popular vaudeville section. Began Hollywood work during 1930s after breaking his arm, preventing concerts.
 
 Important films include: *Lost Horizon* (1937); *It's a Wonderful Life* (1946)
 
 #### High Noon (1952)
-![](/images/music246/Pasted image 20250306221211.png]
+![](/images/music246/Pasted image 20250306221211.png)
 
 Western film with country and western music by Dimitri Tiomkin. First to use a "<mark style="background: #FFB8EBA6;">movie song</mark>."
 
@@ -1139,7 +1139,7 @@ Scene before final battle. Protagonist writing will while clock ticks. Rare exam
 Score's beat syncs with clock ticking. Scene cuts every score downbeat. Score used Frank Miller's villain theme to anticipate battle. During battle toward end, Will's theme represents protagonist, Frank Miller's villain theme represents villain.
 
 ### Bernard Herrmann (1911-1975)
-![](/images/music246/Pasted image 20250313202843.png]
+![](/images/music246/Pasted image 20250313202843.png)
 
 Born in New York City, Herrmann studied composing and conducting at *Juilliard*, the prestigious New York music school. Though a prodigy, he wasn't as extreme as Steiner and Korngold. He established himself as a concert hall (not film) composer by age 20 and often supported young composers by performing their lesser-known works.
 
@@ -1152,7 +1152,7 @@ Many Americans tuned in after the disclaimer, thinking the news was real. Many w
 Hollywood wanted Welles: if you can cause that much disturbance with radio, you'd make a good movie director. Welles demanded complete control of his films, which was too bold for many studios. Eventually, in 1940, a studio accepted his demands and brought him to Hollywood. Following Welles, *that's how Bernard got into Hollywood*.
 
 #### Citizen Kane (1941)
-![](/images/music246/Pasted image 20250313205119.png]
+![](/images/music246/Pasted image 20250313205119.png)
 
 Directed/produced/starred by Orson Welles for his first movie. Considered excellent for a debut and said to inspire later film noir movies. Music by *Bernard Herrmann*.
 
@@ -1167,7 +1167,7 @@ Herrmann's music here is very operatic, *tonal, like Erich Korngold's music. No 
 Since Orson Welles took time with his movies, Herrmann worked with other directors.
 
 ### The Day the Earth Stood Still (1951)
-![](/images/music246/Pasted image 20250313210159.png]
+![](/images/music246/Pasted image 20250313210159.png)
 
 Music by *Bernard Herrmann*. About an alien who comes to Earth warning that humanity will be destroyed.
 
@@ -1193,17 +1193,17 @@ Herrmann's biggest contribution to film scores was realizing movie music can use
 However, Herrmann realized film scores only need to be played once in recording studios, never again. Thus, he doesn't need standard instrumentation everyone can play; he just needs instrumentation fitting the scene best.
 
 #### Beneath the 12-Mile Reef (1953)
-![](/images/music246/Pasted image 20250313211841.png]
+![](/images/music246/Pasted image 20250313211841.png)
 
 Music by Herrmann. Instrumentation included *9 harps*—very unusual. Music was good, though the movie wasn't.
 
 #### Herrmann and Alfred Hitchcock
-![](/images/music246/Pasted image 20250313211957.png]
+![](/images/music246/Pasted image 20250313211957.png)
 
 Herrmann began collaborating with Alfred Hitchcock in 1955, including *Vertigo* (1958) and *North by Northwest* (1959). Herrmann uses standard orchestra and tonal music when they fit well—not always atonal and unusual instrumentation.
 
 ### Psycho (1960)
-![](/images/music246/p283_v_h8_ap.jpg]
+![](/images/music246/p283_v_h8_ap.jpg)
 
 Hitchcock directed. Color films were common by 1960, but limited budget meant shooting in *black and white*.
 
@@ -1253,7 +1253,7 @@ His last movie was *Taxi Driver* (1975). Herrmann returned to the U.S. to make t
 ---
 
 # The 1960s
-![](/images/music246/Pasted image 20250320193933.png]
+![](/images/music246/Pasted image 20250320193933.png)
 
 The 1960s was a chaotic period for the U.S.: civil rights movement, Vietnam War (first time people didn't want to fight), "generational gap" with most young people disagreeing with previous generations and wanting to break the status quo. Young people were major movie audiences.
 
@@ -1268,14 +1268,14 @@ The 1960s was a chaotic period for the U.S.: civil rights movement, Vietnam War 
 - Continuing growth of dissonance, atonality, following modernism
 
 ### John Barry (1933-2011)
-![](/images/music246/Pasted image 20250320194653.png]
+![](/images/music246/Pasted image 20250320194653.png)
 
 Classically trained pianist and trumpet player who pursued pop music career in his 20s in England. By early 1960s, he was a well-known English pop star with his group "*The John Barry Seven*."
 
 Unlike the U.S., England was bombed by Nazis in WWII, so pop music industry didn't really exist until late 1950s. John Barry's style was very "British"—a blend of American rock and roll and big band music.
 
 #### Dr. No (1962)
-![](/images/music246/Pasted image 20250320195125.png]
+![](/images/music246/Pasted image 20250320195125.png)
 
 First James Bond movie. Originally had *Monty Norman*, a famous composer, making both songs and film score. However, Norman only knew songs, not film scores.
 
@@ -1294,7 +1294,7 @@ A lawsuit occurred between Barry and Norman, but Norman won by showing a 1950s m
 This marks the first electric guitar mention in class, showing pop music influence on film scores. James Bond movies still use *"movie-songs"* today. Barry writes (or co-writes) all James Bond movie-songs using his pop music background.
 
 #### John Barry's Orchestral Music
-![](/images/music246/Pasted image 20250320202352.png]
+![](/images/music246/Pasted image 20250320202352.png)
 
 Despite pop music background, Barry also wrote good orchestral music. However, you can clearly hear pop music influence in his orchestral work.
 
@@ -1303,7 +1303,7 @@ His technique of *block orchestration*: each section (brass, string, woodwinds) 
 **John Barry exemplifies how pop music started influencing film music.**
 
 ### Jerry Goldsmith (1929-2004)
-![](/images/music246/Pasted image 20250320202618.png]
+![](/images/music246/Pasted image 20250320202618.png)
 
 Born in Los Angeles in 1929, already in the sound film era. Unlike older composers, he grew up learning sound film music conventions. Not a child prodigy.
 
@@ -1318,10 +1318,10 @@ One day an executive found out: "this music nice, who made it?" His friends said
 By early 1950s, TV was overtaking radio, so Jerry jumped to CBS TV shows instead of radio shows. First composer we discuss who came from *TV show* music. He did music for The Twilight Zone, though not the main theme.
 
 His TV work gained attention, and he started writing film music in 1957. Alfred Newman recommended him to Universal music. Goldsmith's famous work: *The Universal Fanfare*.
-![](/images/music246/hqdefault.jpg]
+![](/images/music246/hqdefault.jpg)
 
 #### Patton (1970)
-![](/images/music246/Pasted image 20250320203154.png]
+![](/images/music246/Pasted image 20250320203154.png)
 
 A war film. Music by *Jerry Goldsmith*. Very sparse film score: 3-hour movie with only 40 minutes of music.
 
@@ -1350,7 +1350,7 @@ Most prior films portrayed Germans and Japanese as absolutely evil, U.S. general
 Patton demonstrates Jerry Goldsmith's comfort writing both tonal and modernist music.
 
 #### Planet of the Apes (1968)
-![](/images/music246/Pasted image 20250320210430.png]
+![](/images/music246/Pasted image 20250320210430.png)
 
 Music by Jerry Goldsmith. A social and political critique of western society. Orangutans are rulers; the darker the ape color, the lower the social status—reflecting western society racism. Film isn't meant literally but as societal symbolism, making it good sci-fi.
 
@@ -1371,7 +1371,7 @@ The idea: traditional tonal approach prioritizes white keys over black keys. He 
 Thus, 12-tone technique says you can only use the same note twice after using all other 11 semitones. This forces equal weight to all 12 semitones.
 
 In 1923, "*tone rows*" were introduced:
-![](/images/music246/Pasted image 20250320212639.png]
+![](/images/music246/Pasted image 20250320212639.png)
 
 You assign numbers to each of 12 semitones and write a permutation as a "tone row," drawing notes from subarrays when making music. You can make related tone rows by shifting pitch, playing notes backwards, or "inverting" the tone row—if your row originally goes down 3 semitones, you'd go up 3 semitones, etc.
 
@@ -1402,7 +1402,7 @@ At ending, protagonist found proof humans existed before apes on Earth, but ape 
 
 ---
 
-![](/images/music246/Pasted image 20250320214955.png]
+![](/images/music246/Pasted image 20250320214955.png)
 
 Jerry Goldsmith had 18 Academy Award nominations, winning in 1977 for "The Omen." Closely associated with Star Trek franchise.
 
@@ -1428,7 +1428,7 @@ They also made "safer" genres naturally having large audiences. For example, man
 For film scores, movies started using *much more pop music* for scores. Pop music was very popular, so using it helped promote movies. Also, using pop music meant not hiring expensive composers from Vienna and orchestras or choirs—much cheaper. "Old school" (orchestral) scores seemed outdated and irrelevant.
 
 ### John Williams (1932-Present)
-![](/images/music246/Pasted image 20250327192317.png]
+![](/images/music246/Pasted image 20250327192317.png)
 
 Born in 1932 to musical parents. Trained as concert pianist at *Juilliard* (like Bernard Herrmann). He's also a good jazz pianist and writes music daily.
 
@@ -1437,14 +1437,14 @@ Went to do military music in Newfoundland. Newfoundland wanted him to write musi
 Popular TV series: *Lost in Space*, *Land of the Giants*, *Gilligan's Island*. Miklós Rózsa was an early mentor.
 
 #### The Sugarland Express (1974)
-![](/images/music246/Pasted image 20250327192922.png]
+![](/images/music246/Pasted image 20250327192922.png)
 
 First collaboration between John Williams and *Steven Spielberg*. This was Spielberg's first movie; he was in his 20s while Williams was about 40. However, John and Steven became close friends with long-term collaboration since. This movie was successful.
 
 Set in southern U.S., music featured jazz, almost blues influence. Used harmonica (口琴)—folk music, southern style.
 
 #### Jaws (1975)
-![](/images/music246/Pasted image 20250327193339.png]
+![](/images/music246/Pasted image 20250327193339.png)
 
 Another Spielberg movie; he called Williams for music again. 400 theaters simultaneously aired it, making money back in 13 days—a record then.
 
@@ -1504,7 +1504,7 @@ At end, barrel disappears underwater unexpectedly, suggesting shark is much stro
 *Jaws* was major hit; everybody, including audiences, realized John Williams' music importance. People started singing shark theme whenever indicating danger or someone messing up silly. Williams was first composer having music famous beyond films.
 
 #### Star Wars (1977)
-![](/images/music246/Pasted image 20250327202712.png]
+![](/images/music246/Pasted image 20250327202712.png)
 
 Music by John Williams. *Jaws* began transition into neo-romanticism but was mainly still modernist score with neo-romantic elements. Main theme was still modernist.
 
@@ -1522,7 +1522,7 @@ Williams composed for standard orchestra with completely tonal themes and themat
 
 John Williams is perhaps the most famous film composer, with Hans Zimmer being only recent competition. Why?
 
-![](/images/music246/Pasted image 20250327205958.png]
+![](/images/music246/Pasted image 20250327205958.png)
 
 1980-1993 Williams conducted Boston Pops Orchestra. This orchestra had TV show. He started reworking film scores into orchestral works—self-contained concert pieces.
 
@@ -1539,14 +1539,14 @@ The 1980s operated under John Williams' shadow. All film scores were strongly in
 Notable composers becoming prominent: James Horner, Michael Kamen, and Alan Silvestri.
 
 #### Back to the Future (1985)
-![](/images/music246/Pasted image 20250327210750.png]
+![](/images/music246/Pasted image 20250327210750.png)
 
 Composer: *Alan Silvestri*. Made very serious music for comedy film. Again, comedy films are only funny when music is full-on serious. Lots of similarity between his style and John Williams.
 
 Alan Silvestri still writes scores, such as for Avengers franchise.
 
 ### James Horner (1953-2015)
-![](/images/music246/Pasted image 20250327211134.png]
+![](/images/music246/Pasted image 20250327211134.png)
 
 Born in LA; father was Academy Award-winning set designer/art director. In this nepotistic industry, this paved Horner's way to becoming film composer.
 
@@ -1560,12 +1560,12 @@ Horner's breakthrough score was **Star Trek II: The Wrath of Khan (1982)**. Jerr
 
 Most well-known works include *Aliens* (1986), *Field of Dreams* (1989), *Braveheart* (1995), *Apollo 13* (1996).
 
-![](/images/music246/Pasted image 20250327212352.png]
+![](/images/music246/Pasted image 20250327212352.png)
 
 Horner had only 2 weeks for *Aliens* music. He had arguments and fights with director James Cameron about tight timeline. However, they became friends again in 1997 and made:
 
 #### Titanic (1997)
-![](/images/music246/Pasted image 20250327212418.png]
+![](/images/music246/Pasted image 20250327212418.png)
 
 Horner won two Academy Awards (Best Original Score + Best Original Song), and recording is still best-selling orchestral album of all time. Previous record was *Star Wars*. Movie-song ("My Heart Will Go On") was great hit, lyrics by Will Jennings.
 
@@ -1579,7 +1579,7 @@ Horner won two Academy Awards (Best Original Score + Best Original Song), and re
 - We call this <mark style="background: #ADCCFFA6;">hitting the cuts</mark>, different from hitting action—not Mickey Mousing
 
 #### Star Trek II: The Wrath of Khan (1982)
-![](/images/music246/Pasted image 20250327223949.png]
+![](/images/music246/Pasted image 20250327223949.png)
 
 First *Star Trek* movie wasn't great success but good enough for sequel. However, this time they didn't want to spend much money, so movie is just "better version" of TV series episodes with "cheaper" composer James Horner.
 
@@ -1633,19 +1633,19 @@ For our very last section, we'll discuss Danny Elfman and Hans Zimmer.
 Also, even if composer doesn't have formal music training, he can write in MIDI and easily turn into sheet music for musicians to play.
 
 ### Danny Elfman (1953-Present)
-![](/images/music246/Pasted image 20250403194653.png]
+![](/images/music246/Pasted image 20250403194653.png)
 
 American born. Primarily *influenced by Bernard Herrmann*, particularly his music for *The Day the Earth Stood Still*.
 
 Had some formal training but mostly self-taught. Thus benefits from MIDI and synthesizer invention; he can play demo on MIDI, get trained musician to translate to sheet music and arrange into orchestra.
 
 #### "Weird Science" (1985)
-![](/images/music246/Pasted image 20250403195233.png]
+![](/images/music246/Pasted image 20250403195233.png)
 
 Brother created Mystic Knights of *Oingo Boingo*, and Elfman wrote music for them. Movie song from *Weird Science* (1985) by Oingo Boingo became pop hit.
 
 #### Pee-wee's Big Adventure (1985)
-![](/images/music246/Pasted image 20250403195642.png]
+![](/images/music246/Pasted image 20250403195642.png)
 
 *Tim Burton, Oingo Boingo fan*, mostly student filmmaker then, got opportunity to make film, *Pee-wee's Big Adventure* (1985)—weird but popular TV series adapted to movie.
 
@@ -1657,14 +1657,14 @@ Tim Burton became long-time Elfman collaborator.
 - **Frantic/Carnivalesque** (childlike in nightmarish way): sounds crazy fun like carnival but has dark side
 - Frequent use of 3/4 time (waltz rhythm) and 2/4 (polka rhythm), sometimes tweaking polka to sound darker
 - Frequent use of glockenspiel/celeste, low woodwinds (bass clarinet), harp glissandi, and wordless choir
-![](/images/music246/Pasted image 20250403200212.png]
+![](/images/music246/Pasted image 20250403200212.png)
 
 Glockenspiel is right picture—can't play too fast because must hit with sticks. Celeste is piano keys hitting glockenspiel-like mechanism inside, so can play glockenspiel-like sound fast. Used lots by Elfman for carnival-like but darker music.
 
 - Lots of hitting action, extreme enough to be *Mickey Mousing*: rare contemporary composer doing Mickey Mousing. Also relates to collaborating lots with Tim Burton, whose movies are very Mickey Mouse-able.
 
 #### Beetlejuice (1988)
-![](/images/music246/Pasted image 20250403200603.png]
+![](/images/music246/Pasted image 20250403200603.png)
 
 Movie about ghost Beetlejuice haunting house. Beetlejuice's theme played with violin (Satan apparently very good at violin, hence demonic reference).
 
@@ -1694,7 +1694,7 @@ Quick transitions:
 02:55: Circus music as B tortures Otho by putting him in cheap leisure suit.
 
 #### Edward Scissorhands (1992)
-![](/images/music246/Pasted image 20250403203531.png]
+![](/images/music246/Pasted image 20250403203531.png)
 
 Fourth collaboration between Elfman and *Burton*. Edward Scissorhands is inventor living in castle, trying to make himself a son; Frankenstein element. Also Beauty and Beast element. Main female character is woman bad at knocking on doors to sell makeup.
 
@@ -1717,26 +1717,26 @@ Edward then cuts Joyce's hair, tango (considered passionate and sensual)—virtu
 Edward prepares cutting Meg's (saleswoman's) hair. *Tango theme changes to gentler statement* of family love. Meg now seen as *mother figure*.
 
 **Other famous work**:
-![](/images/music246/Pasted image 20250403210333.png]
+![](/images/music246/Pasted image 20250403210333.png)
 
 Danny is still active at 71 years old:
-![](/images/music246/Pasted image 20250403210420.png]
+![](/images/music246/Pasted image 20250403210420.png)
 
 ### Hans Zimmer (1957-Present)
-![](/images/music246/Pasted image 20250403210440.png]
+![](/images/music246/Pasted image 20250403210440.png)
 
 German born. Self-taught keyboardist with very little professional training. In late 1970s and early 1980s, became pop music keyboardist and *good synth programmer*, worked with *The Buggles* ("Video Killed the Radio Star," 1979).
-![](/images/music246/Pasted image 20250403210829.png]
+![](/images/music246/Pasted image 20250403210829.png)
 
 He actually appeared in first video played on MTV.
 
 Zimmer worked on jingles (commercial music) until *Stanley Myers*, British film composer, brought Zimmer into film work in 1980. Myers didn't know synths, wanted Zimmer to play synth.
 
 They worked on *Moonlighting* (1982) and *My Beautiful Laundrette* (1985).
-![](/images/music246/Pasted image 20250403211122.png]
+![](/images/music246/Pasted image 20250403211122.png)
 
 #### Zimmer's Early Works
-![](/images/music246/Pasted image 20250403211151.png]
+![](/images/music246/Pasted image 20250403211151.png)
 
 Hans Zimmer's breakthrough film is *Rain Man* (1988). Score was entirely performed on synth by Zimmer himself. Music was major success, drawing attention that Zimmer can make movie music all by himself.
 
@@ -1747,7 +1747,7 @@ Hans Zimmer's breakthrough film is *Rain Man* (1988). Score was entirely perform
 *The Lion King* (1994): Didn't write songs but wrote score. After this, people see him as capable of adapting to diverse settings, such as Lion King (Africa), Asian, etc.
 
 #### The Thin Red Line (1998)
-![](/images/music246/Pasted image 20250403211819.png]
+![](/images/music246/Pasted image 20250403211819.png)
 
 Zimmer was asked to *write music before film completion*. In *The Thin Red Line*, Zimmer started experimenting with new style, <mark style="background: #FFB8EBA6;">Hybrid-Orchestral</mark>:
 
@@ -1763,7 +1763,7 @@ This style embraces minimalism:
 - Repetition, complexity of layers, slow changes over time
 
 #### Inception (2010)
-![](/images/music246/Pasted image 20250403212519.png]
+![](/images/music246/Pasted image 20250403212519.png)
 
 Again, Zimmer *wrote score before film was even shot*. *Not best way to make film music*; original soundtrack album had much more unused music in film.
 
@@ -1772,8 +1772,8 @@ Music and film are edited simultaneously; sometimes different cues are cut and p
 "Non, je ne regrette rien" is French song used to wake sleepers.
 
 #### Inception 1: Final Sequence
-![](/images/music246/Pasted image 20250403213424.png]
-![](/images/music246/Pasted image 20250403213711.png]
+![](/images/music246/Pasted image 20250403213424.png)
+![](/images/music246/Pasted image 20250403213711.png)
 
 [Watch the scene](https://www.youtube.com/watch?v=XQPy88-E2zo)
 
@@ -1801,20 +1801,20 @@ One reason could be film directors are control freaks wanting composers to just 
 Similar to how every 1980s film music composer had to imitate John Williams, all current film music composers must imitate Hans Zimmer.
 
 #### Mad Max: Fury Road (2015)
-![](/images/music246/Pasted image 20250403222821.png]
+![](/images/music246/Pasted image 20250403222821.png)
 
 Music by *Tom Holkenborg*. Unusual background before film music: DJ, used name "Producer Junkie XL." His music largely follows Zimmer's style.
 
 Notice rich texture formed by largely brass and synthetic bass: this is Zimmer style of layering sounds, called "Braaaams." Music was also made before movie shooting, so just frames narrative, little scene reaction.
 
 #### Dune (2021)
-![](/images/music246/Pasted image 20250403223036.png]
+![](/images/music246/Pasted image 20250403223036.png)
 
 Again, Zimmer style music with rich texture and layered sound. Music was also made before movie editing, so once again cannot make music fit film.
 
 This was very apparent in dialogue: music was made to be loud, so they had to literally lower music volume to hear dialogue, then turn volume back on again.
 
 ### Hildur Guðnadóttir
-![](/images/music246/Pasted image 20250403223145.png]
+![](/images/music246/Pasted image 20250403223145.png)
 
 Film music composing remains largely a white male field. However, recently, Hildur Guðnadóttir won the Best Original Score Oscar for *Joker* (2019), becoming the first woman to win in two decades. Her victory represents both a breakthrough and a reminder of how much the industry still needs to evolve.
