@@ -314,7 +314,7 @@
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         const starContainers = document.querySelectorAll('.github-star-count[data-repo]');
-        const CACHE_duration = 1000 * 60 * 60 * 24; // 24 hours
+        const CACHE_duration = 1000 * 60 * 60 * 24;
 
         starContainers.forEach(container => {
             const repo = container.getAttribute('data-repo');
@@ -323,14 +323,14 @@
 
             try {
                 cached = localStorage.getItem(cacheKey);
-            } catch (e) { /* ignore */ }
+            } catch (e) { }
 
             let validCache = false;
 
             if (cached) {
                 try {
                     const parsed = JSON.parse(cached);
-                    // Check if cache is still valid
+
                     if (Date.now() - parsed.timestamp < CACHE_duration) {
                         renderStars(container, parsed.count);
                         validCache = true;
@@ -349,7 +349,7 @@
                     .then(data => {
                         if (data.stargazers_count !== undefined) {
                             renderStars(container, data.stargazers_count);
-                            // Save to cache
+
                             try {
                                 localStorage.setItem(cacheKey, JSON.stringify({
                                     count: data.stargazers_count,
