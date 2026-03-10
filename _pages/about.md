@@ -31,7 +31,21 @@ My research spans Information Retrieval (IR) and Natural Language Processing (NL
 </div>
 # Publications
 
+<div class="publication-box" markdown="1">
 
+### [AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://texttron.github.io/AgentIR/)
+ 
+<div class="publication-content" markdown="1">
+<u>Zijian Chen</u>, Xueguang Ma, Shengyao Zhuang, Jimmy Lin, Akari Asai, Victor Zhong  
+</div>
+<div class="publication-bottom">
+<span class="publication-metadata">Preprint 2026.</span>
+<div class="publication-links">
+<a href="https://arxiv.org/abs/2603.04384" class="btn-pub">Paper</a> <a href="https://github.com/texttron/AgentIR/" class="btn-pub">Code</a> <a href="https://texttron.github.io/AgentIR/" class="btn-pub">Home Page</a>
+</div>
+</div>
+
+</div>
 
 <div class="publication-box" markdown="1">
 
