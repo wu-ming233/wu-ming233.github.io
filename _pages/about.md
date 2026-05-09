@@ -60,7 +60,7 @@ Wenhu Chen, Jimmy&nbsp;Lin
 <div class="publication-bottom">
 <span class="publication-metadata">ACL 2026; MTI-LLM @ NeurIPS 2025 (<b>Spotlight</b>).</span>
 <div class="publication-links">
-<a href="https://arxiv.org/pdf/2508.06600" class="btn-pub">Paper</a> <a href="https://github.com/texttron/BrowseComp-Plus" class="btn-pub">Code <span class="github-star-count" data-repo="texttron/BrowseComp-Plus"></span></a> <a href="https://www.anthropic.com/news/claude-opus-4-5" class="btn-pub"><span class="anthropic-icon"></span>Featured In Opus 4.5 Release</a> <a href="https://huggingface.co/spaces/Tevatron/BrowseComp-Plus" class="btn-pub">Leaderboard</a>
+<a href="https://arxiv.org/pdf/2508.06600" class="btn-pub">Paper</a> <a href="https://github.com/texttron/BrowseComp-Plus" class="btn-pub">Code <span class="github-star-count" data-repo="texttron/BrowseComp-Plus"></span></a> <a href="https://www.anthropic.com/news/claude-opus-4-5" class="btn-pub"><span class="anthropic-icon"></span>Used In Opus 4.5 Release</a> <a href="https://huggingface.co/spaces/Tevatron/BrowseComp-Plus" class="btn-pub">Leaderboard</a>
 </div>
 </div>
 
