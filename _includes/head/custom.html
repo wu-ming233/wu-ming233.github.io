@@ -107,8 +107,8 @@
     .publication-box {
         border: 1px solid #ddd;
         border-radius: 8px;
-        padding: 20px;
-        margin-bottom: 20px;
+        padding: 18px 20px 16px;
+        margin-bottom: 18px;
         background-color: rgb(252, 252, 252);
         position: relative;
     }
@@ -119,9 +119,10 @@
         justify-content: flex-start;
         /* Align left, next to each other */
         align-items: center;
-        margin-top: 4px;
+        margin-top: 8px;
         flex-wrap: wrap;
-        gap: 12px;
+        column-gap: 10px;
+        row-gap: 8px;
         /* Slight gap between venue and buttons */
     }
 
@@ -129,26 +130,34 @@
         font-style: italic;
         color: #555;
         margin: 0;
+        flex: 0 1 auto;
+        line-height: 1.45;
     }
 
     .publication-links {
         display: flex;
+        flex: 0 1 auto;
+        flex-wrap: wrap;
+        align-items: center;
         gap: 8px;
+        min-width: 0;
     }
 
     .publication-box h3 {
         margin-top: 0;
-        margin-bottom: 6px;
+        margin-bottom: 7px;
+        line-height: 1.25;
     }
 
     .publication-box p {
         margin-top: 0;
-        margin-bottom: 6px;
+        margin-bottom: 7px;
+        line-height: 1.45;
     }
 
     /** Ensure content p has no bottom margin to fit nicely above the bottom row */
     .publication-content p {
-        margin-bottom: 4px;
+        margin-bottom: 0;
     }
 
     .publication-box h3 a {
@@ -176,12 +185,13 @@
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        padding: 2px 8px;
-        /* Reduced padding for shorter height */
+        box-sizing: border-box;
+        height: 28px;
+        padding: 4px 9px;
         margin-right: 0;
         /* Handled by gap in container */
         border: 1px solid var(--global-link-color);
-        border-radius: 3px;
+        border-radius: 4px;
         /* Sharp rectangle with very slight rounding */
         background-color: transparent;
         color: var(--global-link-color);
@@ -191,9 +201,8 @@
         font-weight: 600;
         text-decoration: none !important;
         transition: all 0.2s ease-in-out;
-        line-height: 1.2;
-        height: 24px;
-        /* Fixed height for consistency */
+        line-height: 1.15;
+        white-space: nowrap;
     }
 
     .btn-pub:hover {
@@ -212,7 +221,7 @@
         /* Simple gap between Code and Star */
         background: transparent !important;
         /* Ensure no pill background */
-        height: 100%;
+        line-height: 1;
     }
 
     .btn-pub .github-star-count i {
@@ -236,8 +245,8 @@
     /* Anthropic Icon (Left Aligned) */
     .anthropic-icon {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 15px;
+        height: 15px;
         margin-right: 6px;
         /* Moved to left */
         background-image: url('/assets/images/anthropic-logo.png');
@@ -259,8 +268,8 @@
     /* DuckDB Icon (Left Aligned) */
     .duckdb-icon {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 15px;
+        height: 15px;
         margin-right: 6px;
         background-image: url('/assets/images/duckdb-logo.png');
         background-size: contain;
@@ -286,6 +295,7 @@
         background-repeat: no-repeat;
         border-radius: 2px;
         vertical-align: middle;
+        flex: 0 0 22px;
     }
 
     .btn-pub:hover .weaviate-icon {
