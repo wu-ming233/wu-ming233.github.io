@@ -24,7 +24,7 @@ redirect_from:
   </ul>
 </div>
 
-Hello! I am Zijian ("Steven"), a junior undergraduate student at the [University of Waterloo](https://cs.uwaterloo.ca/). I am lucky to be advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) and Prof. [Victor Zhong](https://www.victorzhong.com/) in their labs; I have also worked with Prof. [Raquel Urtasun](https://scholar.google.ca/citations?user=jyxO2akAAAAJ&hl=en) and Prof. [John P. Hirdes](https://scholar.google.ca/citations?user=71R-3OIAAAAJ&hl=en) during internships.
+Hello! I am Zijian ("Steven"), an undergraduate student at the [University of Waterloo](https://cs.uwaterloo.ca/). I am lucky to be advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/) and Prof. [Victor Zhong](https://www.victorzhong.com/) in their labs, and by Prof. [Akari Asai](https://akariasai.github.io/) while interning at the [Allen Institute for AI](https://allenai.org/).
 
 My research spans Information Retrieval (IR) and Natural Language Processing (NLP): I work to jointly advance retrieval systems specialized for agents, and agents that make more effective use of retrieval systems.
 
@@ -39,7 +39,7 @@ My research spans Information Retrieval (IR) and Natural Language Processing (NL
 <u>Zijian Chen</u>, Xueguang Ma, Shengyao Zhuang, Jimmy Lin, Akari Asai, Victor Zhong  
 </div>
 <div class="publication-bottom">
-<span class="publication-metadata">Preprint 2026.</span>
+<span class="publication-metadata">COLM 2026.</span>
 <div class="publication-links">
 <a href="https://arxiv.org/abs/2603.04384" class="btn-pub">Paper</a> <a href="https://github.com/texttron/AgentIR/" class="btn-pub">Code</a> <a href="https://texttron.github.io/AgentIR/" class="btn-pub">Home Page</a> <a href="https://youtu.be/y9YUcr0cVtk?si=0A1zdHidcp6EVgkk" class="btn-pub"><span class="weaviate-icon"></span>Featured In Weaviate Podcast</a>
 </div>
@@ -58,7 +58,7 @@ Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang,  Luyu
 Wenhu Chen, Jimmy&nbsp;Lin  
 </div>
 <div class="publication-bottom">
-<span class="publication-metadata">ACL 2026; MTI-LLM @ NeurIPS 2025 (<b>Spotlight</b>).</span>
+<span class="publication-metadata">ACL 2026 (<b>Oral</b>); MTI-LLM @ NeurIPS 2025 (<b>Spotlight</b>).</span>
 <div class="publication-links">
 <a href="https://arxiv.org/pdf/2508.06600" class="btn-pub">Paper</a> <a href="https://github.com/texttron/BrowseComp-Plus" class="btn-pub">Code <span class="github-star-count" data-repo="texttron/BrowseComp-Plus"></span></a> <a href="https://www.anthropic.com/news/claude-opus-4-5" class="btn-pub"><span class="anthropic-icon"></span>Used In Opus 4.5 Release</a> <a href="https://huggingface.co/spaces/Tevatron/BrowseComp-Plus" class="btn-pub">Leaderboard</a>
 </div>
@@ -115,7 +115,7 @@ Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu,
 
 </div>
 
-<div class="publication-box" markdown="1">
+<!-- <div class="publication-box" markdown="1">
 
 ### [Zero-Shot ATC Coding with Large Language Models for Clinical Assessments](https://aclanthology.org/2025.naacl-industry.19/)
  
@@ -129,7 +129,7 @@ Sahel Sharifymoghaddam, Ronak Pradeep, Andre Slavescu, Ryan Nguyen, Andrew Xu,
 </div>
 </div>
 
-</div>
+</div> -->
 
 # Miscellaneous
 
